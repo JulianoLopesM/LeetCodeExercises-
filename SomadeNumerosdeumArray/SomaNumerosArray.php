@@ -24,6 +24,7 @@ $array = [
 12,
 13,
 14
+];
 
-echo "a soma dos numeros é: " . array_sum($sarray) , "/n"
+echo "a soma dos numeros é: " . array_sum($sarray) , "/n";
 */
